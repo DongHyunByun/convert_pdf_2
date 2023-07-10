@@ -1,0 +1,17 @@
+from_folder/
+
+PDF/
+
+test_from_folder/
+
+test_PDF/
+
+log_folder/
+
+test_log_folder/
+
+sftp_info.py
+
+__pycache__/
+
+/venv
