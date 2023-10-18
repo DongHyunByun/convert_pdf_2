@@ -1,14 +1,14 @@
-from_folder/
+/from_folder/
 
-PDF/
+/PDF/
 
-test_from_folder/
+/test_from_folder/
 
-test_PDF/
+/test_PDF/
 
-log_folder/
+/log_folder/
 
-test_log_folder/
+/test_log_folder/
 
 sftp_info.py
 
